@@ -141,11 +141,6 @@ Bu çözüm, case study'deki tüm değerlendirme kriterlerini karşılar:
 5. **Kod Kalitesi** - Temiz, okunabilir, tek sorumluluk
 6. **AI Kullanımı** - Hızlı geliştirme için kullanıldı
 
-## Dokümantasyon
-
-- [ARCHITECTURE.md](ARCHITECTURE.md) - Sistem mimarisi
-- [MONGODB_SCHEMA.md](MONGODB_SCHEMA.md) - Veritabanı şeması
-- [SOLUTION_SUMMARY.md](SOLUTION_SUMMARY.md) - Uygulama özeti
 
 ## Lisans
 
